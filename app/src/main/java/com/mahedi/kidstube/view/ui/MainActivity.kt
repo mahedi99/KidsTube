@@ -23,10 +23,10 @@ class MainActivity : AppCompatActivity() {
 //        }
 
 
-        val btn = findViewById<Button>(R.id.button)
-        btn.setOnClickListener{
-            startActivity(Intent(this, YoutubePlayerActivity::class.java))
-        }
+//        val btn = findViewById<Button>(R.id.button)
+//        btn.setOnClickListener{
+//            startActivity(Intent(this, YoutubePlayerActivity::class.java))
+//        }
 
 
     }

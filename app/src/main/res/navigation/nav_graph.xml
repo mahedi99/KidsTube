@@ -7,9 +7,9 @@
 
     <fragment
         android:id="@+id/FirstFragment"
-        android:name="com.mahedi.kidstube.view.ui.FirstFragment"
+        android:name="com.mahedi.kidstube.view.ui.VideoListFragment"
         android:label="@string/first_fragment_label"
-        tools:layout="@layout/fragment_first" >
+        tools:layout="@layout/video_list_fragment" >
 
         <action
             android:id="@+id/action_FirstFragment_to_SecondFragment"
